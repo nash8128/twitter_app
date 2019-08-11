@@ -1,26 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# twitter_app
-# twitter_app
+progateのrailsの内容を実際にコードを記載しながら作成
+自分自身がprogateと相性がよくないと思い作成途中で終了
+⇨これからはrailsチュートリアルにて勉強を進めていく
